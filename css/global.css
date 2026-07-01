@@ -1,0 +1,14 @@
+:root {
+  --dark-brown: #5b3f2a;
+  --dark-dark-brown: #3e2a1b;
+  --light-brown: #cebcae;
+  --mid-brown: #876245;
+  --light-mid-brown: #b68d6f;
+}
+
+body {
+  background-color: var(--light-brown);
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
