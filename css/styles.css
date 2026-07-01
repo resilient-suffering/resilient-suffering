@@ -42,7 +42,7 @@
 }
 
 .home-page-banner {
-  background-image: url("../images/resilient-background-image.jpg");
+  background-image: url("../assets/images/resilient-background-image.jpg");
   background-size: cover;
   background-position: calc(15rem + 70dvw) 0;
   position: relative;
@@ -70,7 +70,7 @@
 }
 
 .about-banner {
-  background-image: url("../images/resilient-family.jpg");
+  background-image: url("../assets/images/resilient-family.jpg");
   background-size: cover;
   position: relative;
   background-position: center;
